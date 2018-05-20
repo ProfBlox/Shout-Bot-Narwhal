@@ -1,0 +1,15 @@
+{
+  "name": "rankbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "roblox-js": "^4.0.2"
+  }
+}
