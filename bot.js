@@ -4,8 +4,8 @@ let roblox = require('roblox-js');
 let bot = new Discord.Client();
 
 // LOGIN INFO
-let username = "ShoutBotNarwhal"; // ROBLOX
-let password = "rossross"; // ROBLOX
+let username = "hidden"; // ROBLOX
+let password = "hidden"; // ROBLOX
 
 // MISC
 let prefix = "!" // Prefix used for the command
